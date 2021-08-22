@@ -1,0 +1,35 @@
+body {
+  background-color: #14110f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ffffff;
+  
+}
+
+.title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 55px;
+
+}
+
+.section-title {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.picture {
+  border-radius: 100%;
+}
+
+.big-highlight {
+  font-size: large;
+
+}
+
+.small-highlight {
+  font-size: small;
+
+}
+
