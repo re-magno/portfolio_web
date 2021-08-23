@@ -1,16 +1,15 @@
 body {
   background-color: #14110f;
+  background: #000000 url(background-black.png) left top no-repeat ;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #ffffff;
   
 }
 
-.title {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 45px;
-  font-weight: 600;
-  line-height: 55px;
-
+.cabeçalho {
+  font-size: 3rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  font-size: 45px;
+  line-height: 90px;
 }
 
 .section-title {
@@ -33,3 +32,11 @@ body {
 
 }
 
+.emphasis {
+  color: #7e7f83;
+}
+
+.links {
+  text-decoration: none;
+  color: #ffffff;
+}
